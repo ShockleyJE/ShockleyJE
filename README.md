@@ -30,7 +30,7 @@ See [my website](https://shockleyje.com) for more information!</h3>
     <td width="50%" valign="top">
       <h3 align="center">Client - Porfolio website</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="https://github.com/ShockleyJE/tim-client-portfolio">
             <img src="https://github.com/ShockleyJE/tim-client-portfolio/blob/main/source/images/client-1.png?raw=true" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
