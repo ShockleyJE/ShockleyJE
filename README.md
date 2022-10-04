@@ -10,7 +10,7 @@ See [my website](https://shockleyje.com) for more information!</h3>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Moviesquad.org</h3>
+      <h3 align="center">Moviesquad.net</h3>
         <br />
         <a target="_blank" href="https://moviesquad.net/">
             <img src="https://github.com/ShockleyJE/Moviesquad/raw/main/docs/promotional/moviesquad.gif" width="100%" alt="Moviesquad App"/>
