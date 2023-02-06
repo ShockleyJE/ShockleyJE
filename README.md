@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">
 
-Currently a Bosch Software & Data Engineer, I am motivated by the power of technology as a tool for positive change.
+Currently a Founding Engineer at Neurelo, I am motivated by the power of technology as a tool for positive change.
 
 See [my website](https://shockleyje.com) for more information!</h3>
 
